@@ -32,7 +32,7 @@ const featuredClasses = [
 
 export default function FeaturedClasses() {
   return (
-    <section  className="max-w-[1350px] mx-auto py-10 px-5 md:px-15 ">
+    <section  className="max-w-[1350px] mx-auto py-10 px-5 md:px-15">
       <div className="">
 
         <div className="text-center mb-12">

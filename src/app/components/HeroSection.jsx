@@ -14,10 +14,10 @@ export default function HeroSection() {
           and communication for students, teachers, and administrators.
         </p>
         <div className="space-x-4">
-          <button className="bg-white text-indigo-600 hover:bg-gray-100 px-8 py-3 rounded-full text-lg font-semibold transition duration-300 ease-in-out border-2 border-white">
+          <button className="bg-white cursor-pointer text-indigo-600 hover:bg-gray-100 px-8 py-3 rounded-full text-lg font-semibold transition duration-300 ease-in-out border-2 border-white">
             Join Now
           </button>
-          <button className="bg-transparent text-white hover:bg-white hover:text-indigo-600 px-8 py-3 rounded-full text-lg font-semibold border-2 border-white transition duration-300 ease-in-out">
+          <button className="bg-transparent  cursor-pointer text-white hover:bg-white hover:text-indigo-600 px-8 py-3 rounded-full text-lg font-semibold border-2 border-white transition duration-300 ease-in-out">
             Login
           </button>
         </div>
